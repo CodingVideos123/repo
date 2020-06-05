@@ -9,6 +9,6 @@ Section: Tweaks
 Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
 Filename: /deb/com.codingvideos.filza_3.7.5-9_iphoneos-arm.deb
 Size: 12499578
-MD5sum: ab5ed013c254ab9cc4ed95958a608ddc
-SHA1: 39969bab7b3d793a85cac9b130a8db00d2178a69
-SHA256: 5e87b15f3d7034cf715772bdafb1412f8b298c0b1a41f13a5ab5bbedd838ce8a
+MD5sum: f5e93ee0b17801f009a457d322ff9ee4
+SHA1: a1e51c070ce07882f65a08f9e0081ed341c3ab78
+SHA256: 5e221527d77188003fc691e114716484ad31cb999c79d51863d4154088d8cb6d
