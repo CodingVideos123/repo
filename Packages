@@ -1,0 +1,14 @@
+Package: com.CodingVideosRepo.filza
+Name: Filza File Manager
+Version: 3.7.5-9
+Architecture: iphoneos-arm
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: TIGI Software <satashi2009@gmail.com>
+Section: Utilities
+Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
+Filename: ./deb/filza.deb
+Size: 9,580,102
+MD5sum: ab5ed013c254ab9cc4ed95958a608ddc
+SHA1: 39969bab7b3d793a85cac9b130a8db00d2178a69
+SHA256: 5e87b15f3d7034cf715772bdafb1412f8b298c0b1a41f13a5ab5bbedd838ce8a
